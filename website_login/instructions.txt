@@ -1,0 +1,7 @@
+####################
+
+Instructions were found from this website:
+
+https://medium.com/@kikigulab/how-to-automate-opening-and-login-to-websites-with-python-6aeaf1f6ae98
+
+####################
